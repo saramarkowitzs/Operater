@@ -8,7 +8,8 @@ public class Operater
         f=i+f;
         boolean flag = true;
         i++;
-        System.out.println("value of i");
-        System.out.println("value of f");
+        System.out.println(i);
+        System.out.println(f);
+        System.out.println(flag);
     }
 }
