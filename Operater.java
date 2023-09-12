@@ -7,6 +7,7 @@ public class Operater
         double f=2.5;
         f=i+f;
         boolean flag = true;
+        flag = !flag;
         i++;
         System.out.println(i);
         System.out.println(f);
